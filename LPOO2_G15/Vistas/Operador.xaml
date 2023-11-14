@@ -1,0 +1,9 @@
+﻿<Window x:Class="Vistas.Operador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Operador" Height="300" Width="300">
+    <Grid>
+        <Button Content="Gestionar Cliente" Height="23" HorizontalAlignment="Left" Margin="41,21,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Button Content="Gestionar Estacionamiento" Height="23" HorizontalAlignment="Left" Margin="41,99,0,0" Name="button2" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</Window>
